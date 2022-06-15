@@ -355,11 +355,3 @@ setTimeout(() => {
 const drawGoodsInCart = new DrawGoodsInCart(cart);
 
 console.log(showcase, cart)
-
-
-
-
-
-
-
-// Создать класс для отрисовки каточки товара на витрине, и класс отрисовки карточки товара в корзине, класс отрисовки корзины, и класс отрисовки витрины
